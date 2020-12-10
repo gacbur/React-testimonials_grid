@@ -45,7 +45,6 @@
 .card:hover{
   transform: scale(1.05);
   transition: .3s ease;
-  cursor: pointer;
   opacity: 0.85;
 }
 
@@ -151,7 +150,5 @@
     background-image: url('./images/bgpatternquotation.svg');
     background-position: left 200px  top 0px;
     background-size: 85px;
-
   }
-
 }
